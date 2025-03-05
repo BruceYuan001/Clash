@@ -2,9 +2,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,pterclub
 DOMAIN-KEYWORD,audiences
-DOMAIN-KEYWORD,hdfans
 DOMAIN-KEYWORD,leaves
-DOMAIN-KEYWORD,ubits
 DOMAIN-KEYWORD,pttime
 DOMAIN-KEYWORD,wintersakura
 DOMAIN-KEYWORD,haidan
@@ -18,4 +16,45 @@ DOMAIN-KEYWORD,ourbits
 # DOMAIN,copilot.microsoft.com
 # DOMAIN-SUFFIX,bing.com
 # DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,star-space.net
+
+# 20250306批量添加
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,cyanbug.net
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,hdvideo.one
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,pandapt.net
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,pt.0ff.cc
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,wukongwendao.top
+DOMAIN-SUFFIX,ultrahd.net
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,wintersakura.net
+DOMAIN-SUFFIX,haidan.video
+DOMAIN-SUFFIX,oshen.win
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,pt.upxin.net
+DOMAIN-SUFFIX,dajiao.cyou
+DOMAIN-SUFFIX,www.hdkyl.in
+DOMAIN-SUFFIX,greatposterwall.com
+DOMAIN-SUFFIX,www.joyhd.net
+DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,ptchdbits.co
+DOMAIN-SUFFIX,www.agsvpt.com
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,hdcity.city
+
+# DOMAIN-SUFFIX,
+# DOMAIN-SUFFIX,
+# DOMAIN-SUFFIX,
