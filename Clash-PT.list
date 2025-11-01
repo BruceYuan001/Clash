@@ -1,6 +1,6 @@
 # 内容：PT科学访问站点
 # 域名关键字匹配
-DOMAIN-KEYWORD,pterclub
+# DOMAIN-KEYWORD,pterclub
 # DOMAIN-KEYWORD,audiences
 DOMAIN-KEYWORD,leaves
 DOMAIN-KEYWORD,wintersakura
@@ -58,4 +58,5 @@ DOMAIN-SUFFIX,pttime.org
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
+
 
