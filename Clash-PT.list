@@ -1,7 +1,7 @@
 # 内容：PT科学访问站点
 # 域名关键字匹配
-DOMAIN-KEYWORD,pterclub
-DOMAIN-KEYWORD,audiences
+# DOMAIN-KEYWORD,pterclub
+# DOMAIN-KEYWORD,audiences
 DOMAIN-KEYWORD,leaves
 DOMAIN-KEYWORD,wintersakura
 DOMAIN-KEYWORD,haidan
@@ -54,10 +54,13 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,kp.m-team.cc
 DOMAIN-SUFFIX,hdcity.city
 DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,pterclub.net
 
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
 # DOMAIN-SUFFIX,
+
 
 
 
